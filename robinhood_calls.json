@@ -1,1 +1,1 @@
-{"updated_at":"","chain":"robinhood","calls":[]}
+{"updated_at":"2026-10-20T06:05:32+0000","chain":"robinhood","calls":[{"tier":"strategy","tag":"RH","symbol":"TADA","name":"Tada","contract":"0x69f125AB4Bba8F4A87f0D0a4a2Eab739F5D1e1aD","mcap":34740,"called_at":"2026-10-20T06:05:32+0000","score":60,"liq":17003,"h1_vol":36755,"vol_mcap":1.06,"age_h":1.6,"dex_url":"https://dexscreener.com/robinhood/0x69f125AB4Bba8F4A87f0D0a4a2Eab739F5D1e1aD","experimental_vetting":true,"pons_status":"pons_v2_verified","pons_detail":null,"pons_unsupported":["exemption_check","snipe_share"]}]}
